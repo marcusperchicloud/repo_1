@@ -1,5 +1,7 @@
 source code line 1
 
+new code 454542
+
 second line added
 
 Base line code
