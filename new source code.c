@@ -16,6 +16,12 @@ branch 1 block
 28488583838383883838383838
 
 new line 2
+
+BLOCK 3
+lakslkslklaklkslasklaksklas
+hhghghghhfhdhdhhdhdhdhdhdhd
+bnbnbnbnbnbnbnnbnbnnbnbnbbn
+
 new line 3
 
 
